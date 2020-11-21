@@ -9,8 +9,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Enterprise
 - 📫 How to reach me: 
-<ul>
-<li>
-  <b>Linked In :</b>
-</li>
-  </ul>
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
