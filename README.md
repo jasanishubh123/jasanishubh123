@@ -1,4 +1,22 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="">
+  <img align="left" alt="Shubham's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Shubham's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Shubham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=jasanishubh123.jasanishubh123)
+
+<br />
 
 
 Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 year old and Beside's programming, I enjoy singing and I'm interested in Microservices , Cloud Computing , DevOps
