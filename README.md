@@ -33,6 +33,7 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Enterprise , Javascript.
 
+<br/>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -42,9 +43,9 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 ![](https://img.shields.io/badge/Code-DOTNET-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Interest-Microservice-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+<br/>
 
 📈 My GitHub Stats
-
  <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
 
 
