@@ -45,10 +45,10 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 
 
 <br/>
-
+<br/>
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" /> </p>
 
 
 
