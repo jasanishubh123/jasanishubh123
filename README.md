@@ -3,7 +3,7 @@
 <!--
 **jasanishubh123/jasanishubh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200px" height="200px"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 - 🔭 I’m currently working on  MERN stack
 - 🌱 I’m currently learning Microservice
 - 👯 I’m looking to collaborate on MERN stack project
