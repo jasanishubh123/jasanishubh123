@@ -3,7 +3,7 @@
 <!--
 **jasanishubh123/jasanishubh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on  MERN stack
 - 🌱 I’m currently learning Microservice
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 <ul>
 <li>
-  <span>Linked In :</span>
+  <b>Linked In :</b>
 </li>
   </ul>
