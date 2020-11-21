@@ -22,7 +22,7 @@
 Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 year old and Beside's programming, I enjoy singing and I'm interested in Microservices , Cloud Computing , DevOps
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<br/>
 <!--
 **jasanishubh123/jasanishubh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -31,8 +31,8 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 - 🌱 I’m currently learning Microservice
 - 👯 I’m looking to collaborate on MERN stack project
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Java Enterprise
-- 📫 How to reach me: 
+- 💬 Ask me about Java Enterprise , Javascript.
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -43,9 +43,6 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 ![](https://img.shields.io/badge/Interest-Microservice-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-
-<br/>
-<br/>
 📈 My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
