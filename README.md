@@ -30,7 +30,6 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 - 🔭 I’m currently working on  MERN stack
 - 🌱 I’m currently learning Microservice
 - 👯 I’m looking to collaborate on MERN stack project
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Enterprise , Javascript.
 
 <br/>
@@ -46,6 +45,7 @@ Hi, I'm Shubham Jasani, a Full Stack Developer from India, currently, I'm a 22 y
 <br/>
 
 📈 My GitHub Stats
+<br/>
  <img src="https://github-readme-stats.vercel.app/api?username=jasanishubh123&show_icons=true&theme=gotham" alt="jasanishubh123" />
 
 
